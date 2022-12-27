@@ -1,0 +1,8 @@
+[package]
+name = "minesweeper"
+version = "0.1.0"
+authors = ["Annar <ahi046@student.uib.no>"]
+
+[dependencies]
+rand = "0.3.14"
+sfml = "0.14.0"
